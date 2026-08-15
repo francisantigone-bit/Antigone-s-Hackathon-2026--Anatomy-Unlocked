@@ -23,7 +23,7 @@ Antigone Francis is a Biology Instructor at Southern University and A&M College,
 Her professional interests include innovative teaching strategies, science education, educational technology, computational tools, and improving student engagement and conceptual understanding in undergraduate STEM courses. Her current work explores how Science Gateways, visualization platforms, data-analysis tools, and AI-supported resources can be incorporated into Anatomy & Physiology laboratory instruction to strengthen student learning and prepare students to use technology and data in scientific and health-related fields.
 
 ### Faculty Headshot
-<img width="1023" height="1537" alt="Antigone Anthony headshot" src="https://github.com/user-attachments/assets/050f39f4-a75e-4c09-8513-a8b959384940" />
+<img height="500" alt="Antigone Anthony headshot" src="https://github.com/user-attachments/assets/050f39f4-a75e-4c09-8513-a8b959384940" />
 
 
 
